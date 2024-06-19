@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wt6yVqp9Ema0SULaaQ1DZa8PTzQgJE4tkMNvZB+6dfBK9u+bnAMuhxAie6WpnfKbgUggc+TQpbTHJaBpqsf0XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivas\\source\\repos\\EmptyCore\\EmptyCore\\EmptyCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
